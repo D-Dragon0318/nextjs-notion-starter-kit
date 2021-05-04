@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '957f49d96a97440082ed7c1af9caa79d',
+  rootNotionPageId: '1d89db64938e4f01abbb5f9de1bf4487',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '中二街',
-  domain: 'https://www.notion.so/DataWhale-957f49d96a97440082ed7c1af9caa79d',
+  domain: 'https://www.notion.so/1d89db64938e4f01abbb5f9de1bf4487',
   author: '中二街摊主',
 
   // open graph metadata (optional)
